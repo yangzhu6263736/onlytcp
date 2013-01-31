@@ -1,6 +1,6 @@
 var ExBuffer = require('ExBuffer'),
     EventEmitter = process.EventEmitter;
-require('MyConst.js');//载入系统定义常量
+require('./MyConst.js');//载入系统定义常量
 
 exports = module.exports = Client;
 /**

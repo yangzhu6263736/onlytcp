@@ -2,13 +2,13 @@
   "author": "yangzhu <176157467@qq.com>",
   "name": "onlytcp",
   "description": "node.js pure tcp socket server, no websocket!",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "http://git.com",
   "repository": {
     "type": "git",
     "url": "git://github.com/yangzhu6263736/OnlyTCP.git"
   },
-  "main": "only/Client.js",
+  "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
